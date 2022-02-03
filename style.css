@@ -1,0 +1,60 @@
+li{
+    list-style: none;
+    margin-left: 2rem;
+    padding-top: 0.7rem;
+    font-size: 2rem;
+    
+}
+
+ul{
+    display: flex;
+}
+
+img[src="images/lap.jpeg"]{
+    width: 95vw;
+    height: 100vh;
+    margin-left: 1vw;
+    margin-right: 2vw;
+}
+
+.footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.navbar>nav{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3rem;
+}
+
+.navbar h1{
+    margin-left: 2rem;
+    font-size:2rem;
+}
+
+.container{
+    display: flex;
+}
+
+.container>div{
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding: 3rem;;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+}
+
+
+
